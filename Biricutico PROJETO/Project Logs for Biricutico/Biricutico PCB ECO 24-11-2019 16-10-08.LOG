@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetR29_2 Pin=U15-20
+Removed Pin From Net: NetName=NetR33_2 Pin=U15-21
+Removed Pin From Net: NetName=NetR34_2 Pin=U15-22
+Removed Pin From Net: NetName=NetR30_2 Pin=U15-23
+Removed Pin From Net: NetName=NetR32_2 Pin=U15-24
+Removed Pin From Net: NetName=NetR35_2 Pin=U15-25
+Removed Pin From Net: NetName=NetR31_2 Pin=U15-26
+Added Pin To Net: NetName=NetR35_2 Pin=U15-20
+Added Pin To Net: NetName=NetR34_2 Pin=U15-21
+Added Pin To Net: NetName=NetR32_2 Pin=U15-22
+Added Pin To Net: NetName=NetR33_2 Pin=U15-23
+Added Pin To Net: NetName=NetR31_2 Pin=U15-24
+Added Pin To Net: NetName=NetR30_2 Pin=U15-25
+Added Pin To Net: NetName=NetR29_2 Pin=U15-26
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

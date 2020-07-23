@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=+6 Pin=C31-1
+Removed Pin From Net: NetName=+5 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Member From Class: ClassName=Motor Member=C32
+Change Component Footprint: Designator=C31 Old Footprint=Cap Eletro New Footprint=CAPACITOR 0603
+Change component parameters: Designator = "C31"; Footprint = "CAPACITOR 0603"; UniqueID = "\RJMQCDPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Murata-Electronics/GRT188C81C106ME13D?qs=drgMNd%252bkGPNZ2BDWwi8nsA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=TTI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=TTI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRT188C81C106ME13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "10000=0.127 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 2"; Value = "1=0.45, 10=0.315, 100=0.188, 500=0.141, 1000=0.119, 4000=0.093, 8000=0.087, 12000=0.084, 24000=0.076 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1580"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 2"; Value = "205123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM188R6YA106MA3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPACITOR 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Murata-Electronics/GRT188C81C106ME13D?qs=drgMNd%252bkGPNZ2BDWwi8nsA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=TTI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf?src-supplier=TTI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRT188C81C106ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10000=0.127 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 2"; Value = "1=0.45, 10=0.315, 100=0.188, 500=0.141, 1000=0.119, 4000=0.093, 8000=0.087, 12000=0.084, 24000=0.076 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 2"; Value = "205123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM188R6YA106MA3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+6 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=+5 Pin=C31-1
+Added Member To Class: ClassName=Motor Member=Component C26 10uF
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

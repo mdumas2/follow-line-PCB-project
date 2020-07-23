@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetU15_29 Pin=U15-29
+Removed Pin From Net: NetName=NetU15_61 Pin=U16-15
+Removed Pin From Net: NetName=NetU15_29 Pin=U16-23
+Added Pin To Net: NetName=NetR16_2 Pin=U15-29
+Added Pin To Net: NetName=NetU15_29 Pin=U16-15
+Added Pin To Net: NetName=NetU15_61 Pin=U16-23
+Change Net Name : Old Net Name=NetU15_29 New Net Name=NetU15_62
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

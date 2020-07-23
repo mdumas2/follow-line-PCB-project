@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+3.3 Pin=C26-2
+Removed Pin From Net: NetName=+3.3 Pin=C27-2
+Removed Pin From Net: NetName=+3.3 Pin=U15-30
+Removed Member From Class: ClassName=Micro Member=C26
+Change Component Comment : Designator=C24 Old Comment=0.1uF New Comment=1uF
+Change component parameters: Designator = "C24"; Footprint = "CAPACITOR 0805"; UniqueID = "\YEWKRFCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "VJ0805Y105KXXTW1BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.11, 10=0.11, 50=0.11, 100=0.055, 1000=0.038, 10000=0.038 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "40011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "77-VJ805Y105KXXTW1BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCAP_1 Pin=C27-2
+Added Pin To Net: NetName=VCAP_1 Pin=U15-30
+Added Net: Name=VCAP_1
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

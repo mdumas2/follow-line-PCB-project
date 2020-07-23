@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BUZZER Pin=U15-29
+Added Pin To Net: NetName=BUZZER Pin=U15-40
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

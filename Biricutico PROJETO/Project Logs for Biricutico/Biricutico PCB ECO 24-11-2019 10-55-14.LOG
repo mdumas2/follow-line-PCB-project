@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1 Old Footprint=Push_Boton New Footprint=FSM4JSMA
+Change Component Footprint: Designator=J2 Old Footprint=Push_Boton New Footprint=FSM4JSMA
+Change Component Footprint: Designator=J3 Old Footprint=Push_Boton New Footprint=FSM4JSMA
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

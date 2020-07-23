@@ -1,0 +1,176 @@
+Added Component: Designator=J1(Push_Boton)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1000000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "200gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.3, 10=0.265, 100=0.203, 1000=0.173, 2000=0.134, 9000=0.134 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Push_Boton)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1000000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "200gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.3, 10=0.265, 100=0.203, 1000=0.173, 2000=0.134, 9000=0.134 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Push_Boton)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_6s_mid.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1000000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "200gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.3, 10=0.265, 100=0.203, 1000=0.173, 2000=0.134, 9000=0.134 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVP-BFAC1A000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J1-1
+Added Pin To Net: NetName=+3.3 Pin=J1-1
+Added Pin To Net: NetName=+3.3 Pin=J2-1
+Added Pin To Net: NetName=+3.3 Pin=J2-1
+Added Net: Name=+3.3
+Added Net: Name=+5
+Added Net: Name=+6
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Net: Name=GND
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC15_1
+Added Net: Name=NetC16_1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC35_2 Pin=J3-2
+Added Pin To Net: NetName=NetC35_2 Pin=J3-2
+Added Net: Name=NetC35_2
+Added Net: Name=NetD1_2
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_2
+Added Net: Name=NetD6_2
+Added Net: Name=NetD9_2
+Added Net: Name=NetD10_2
+Added Net: Name=NetD11_2
+Added Net: Name=NetD12_2
+Added Net: Name=NetD13_2
+Added Net: Name=NetGRAVACAO_1
+Added Net: Name=NetGRAVACAO_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Net: Name=NetLS1_2
+Added Net: Name=NetM1_1
+Added Net: Name=NetM3_3
+Added Net: Name=NetM3_4
+Added Net: Name=NetM3_5
+Added Net: Name=NetM3_6
+Added Net: Name=NetM4_3
+Added Net: Name=NetM4_4
+Added Net: Name=NetM4_5
+Added Net: Name=NetM4_6
+Added Net: Name=NetM5_1
+Added Net: Name=NetM5_2
+Added Net: Name=NetM5_3
+Added Net: Name=NetQ3_1
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_2
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_2
+Added Net: Name=NetR8_2
+Added Net: Name=NetR9_2
+Added Net: Name=NetR10_2
+Added Net: Name=NetR11_2
+Added Net: Name=NetR12_2
+Added Net: Name=NetR13_2
+Added Net: Name=NetR14_2
+Added Net: Name=NetR15_2
+Added Net: Name=NetR16_2
+Added Net: Name=NetR17_2
+Added Net: Name=NetR18_2
+Added Net: Name=NetR19_2
+Added Net: Name=NetR20_2
+Added Net: Name=NetR21_2
+Added Net: Name=NetR22_2
+Added Net: Name=NetR23_2
+Added Net: Name=NetR30_2
+Added Net: Name=NetR31_2
+Added Net: Name=NetR32_1
+Added Net: Name=NetR34_2
+Added Net: Name=NetR35_2
+Added Net: Name=NetR36_2
+Added Net: Name=NetR44_1
+Added Net: Name=NetR44_2
+Added Net: Name=NetR46_1
+Added Net: Name=NetR48_2
+Added Net: Name=NetU16_15
+Added Net: Name=NetU16_16
+Added Net: Name=NetU16_17
+Added Net: Name=NetU16_21
+Added Net: Name=NetU16_22
+Added Net: Name=NetU16_23
+Added Net: Name=NetU17_2
+Added Net: Name=NetU17_3
+Added Net: Name=NetU17_4
+Added Net: Name=NetU17_5
+Added Net: Name=NetU18_2
+Added Net: Name=NetU18_5
+Added Net: Name=NetU18_6
+Added Net: Name=NetU19_1
+Added Net: Name=NetU19_5
+Added Net: Name=NetU19_15
+Added Net: Name=NetU19_16
+Added Class: Name=C_M
+Added Class: Name=Fonte
+Added Class: Name=Gyro
+Added Class: Name=Head_Sensors
+Added Class: Name=Leds
+Added Class: Name=Micro
+Added Class: Name=Motor
+Added Class: Name=Side
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

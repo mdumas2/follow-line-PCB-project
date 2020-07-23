@@ -1,0 +1,14 @@
+Change Pin Designator/Name:  Old Designator=U15-16 Old Name=ADC1_IN2 New Designator =ADC1_IN9 New Name=27
+Change Pin Designator/Name:  Old Designator=U15-17 Old Name=ADC1_IN3 New Designator =ADC1_IN2 New Name=16
+Change Pin Designator/Name:  Old Designator=U15-20 Old Name=ADC1_IN4 New Designator =ADC1_IN15 New Name=25
+Change Pin Designator/Name:  Old Designator=U15-21 Old Name=ADC1_IN5 New Designator =ADC1_IN6 New Name=22
+Change Pin Designator/Name:  Old Designator=U15-22 Old Name=ADC1_IN6 New Designator =ADC1_IN14 New Name=24
+Change Pin Designator/Name:  Old Designator=U15-23 Old Name=ADC1_IN7 New Designator =ADC1_IN5 New Name=21
+Change Pin Designator/Name:  Old Designator=U15-24 Old Name=ADC1_IN14 New Designator =ADC1_IN8 New Name=26
+Change Pin Designator/Name:  Old Designator=U15-25 Old Name=ADC1_IN15 New Designator =ADC1_IN7 New Name=23
+Change Pin Designator/Name:  Old Designator=U15-26 Old Name=ADC1_IN8 New Designator =ADC1_IN4 New Name=20
+Change Pin Designator/Name:  Old Designator=U15-27 Old Name=ADC1_IN9 New Designator =ADC1_IN3 New Name=17
+Change Pin Designator/Name:  Old Designator=U16-15 Old Name=PWMB New Designator =PWMA New Name=23
+Change Pin Designator/Name:  Old Designator=U16-21 Old Name=AIN1 New Designator =AIN2 New Name=22
+Change Pin Designator/Name:  Old Designator=U16-22 Old Name=AIN2 New Designator =AIN1 New Name=21
+Change Pin Designator/Name:  Old Designator=U16-23 Old Name=PWMA New Designator =PWMB New Name=15

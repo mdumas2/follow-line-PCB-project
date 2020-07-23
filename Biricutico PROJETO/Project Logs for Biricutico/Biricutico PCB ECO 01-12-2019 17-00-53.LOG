@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SENSOR_0 Pin=R29-2
+Removed Pin From Net: NetName=SENSOR_2 Pin=R31-2
+Removed Pin From Net: NetName=SENSOR_0 Pin=U4-3
+Removed Pin From Net: NetName=SENSOR_2 Pin=U6-3
+Added Pin To Net: NetName=SENSOR_2 Pin=R29-2
+Added Pin To Net: NetName=SENSOR_0 Pin=R31-2
+Added Pin To Net: NetName=SENSOR_2 Pin=U4-3
+Added Pin To Net: NetName=SENSOR_0 Pin=U6-3
+Added Member To Class: ClassName=Micro Member=Component GRAVACAO1 Headers (1x5)
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

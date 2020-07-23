@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GYRO_I/O Pin=U15-33
+Removed Pin From Net: NetName=GYRO_SCK Pin=U15-34
+Removed Pin From Net: NetName=GYRO_MISO Pin=U15-35
+Removed Pin From Net: NetName=GYRO_MOSI Pin=U15-36
+Removed Pin From Net: NetName=USB_RX Pin=U15-37
+Removed Pin From Net: NetName=USB_TX Pin=U15-38
+Removed Pin From Net: NetName=ENCODER_E_2 Pin=U15-41
+Removed Pin From Net: NetName=ENCODER_E_1 Pin=U15-42
+Removed Pin From Net: NetName=MEMO_I/O Pin=U15-50
+Removed Pin From Net: NetName=MEMO_SCK Pin=U15-51
+Removed Pin From Net: NetName=MEMO_MISO Pin=U15-52
+Removed Pin From Net: NetName=MEMO_MOSI Pin=U15-53
+Added Pin To Net: NetName=MEMO_I/O Pin=U15-33
+Added Pin To Net: NetName=MEMO_SCK Pin=U15-34
+Added Pin To Net: NetName=MEMO_MISO Pin=U15-35
+Added Pin To Net: NetName=MEMO_MOSI Pin=U15-36
+Added Pin To Net: NetName=USB_RX Pin=U15-42
+Added Pin To Net: NetName=USB_TX Pin=U15-43
+Added Pin To Net: NetName=GYRO_I/O Pin=U15-50
+Added Pin To Net: NetName=GYRO_SCK Pin=U15-51
+Added Pin To Net: NetName=GYRO_MISO Pin=U15-52
+Added Pin To Net: NetName=GYRO_MOSI Pin=U15-53
+Added Pin To Net: NetName=ENCODER_E_2 Pin=U15-56
+Added Pin To Net: NetName=ENCODER_E_1 Pin=U15-57
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

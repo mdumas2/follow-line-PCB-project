@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=M1- Pin=M4-5
+Removed Pin From Net: NetName=M1+ Pin=M4-6
+Added Pin To Net: NetName=M1+ Pin=M4-5
+Added Pin To Net: NetName=M1- Pin=M4-6
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

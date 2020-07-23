@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ENCODER_D_1 Pin=M4-3
+Removed Pin From Net: NetName=ENCODER_D_2 Pin=M4-4
+Added Pin To Net: NetName=ENCODER_D_2 Pin=M4-3
+Added Pin To Net: NetName=ENCODER_D_1 Pin=M4-4
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

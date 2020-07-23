@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Added Member To Class: ClassName=Fonte Member=Component U2 Voltage Regulators 3.3V
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

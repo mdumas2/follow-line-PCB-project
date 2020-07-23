@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=NetM3_2 Pin=R14-2
+Removed Pin From Net: NetName=NetM3_2 Pin=R15-1
+Removed Member From Class: ClassName=Motor Member=C13
+Removed Member From Class: ClassName=Motor Member=C14
+Removed Member From Class: ClassName=Motor Member=C15
+Removed Member From Class: ClassName=Motor Member=C16
+Removed Member From Class: ClassName=Motor Member=C17
+Removed Member From Class: ClassName=Motor Member=C18
+Removed Member From Class: ClassName=Gyro Member=C19
+Removed Member From Class: ClassName=Gyro Member=C20
+Removed Member From Class: ClassName=Gyro Member=C21
+Removed Member From Class: ClassName=Micro Member=C29
+Removed Member From Class: ClassName=Micro Member=C30
+Removed Member From Class: ClassName=Micro Member=C31
+Removed Member From Class: ClassName=Micro Member=C32
+Removed Member From Class: ClassName=Micro Member=C33
+Removed Member From Class: ClassName=Micro Member=C34
+Removed Member From Class: ClassName=Fonte Member=D6
+Removed Member From Class: ClassName=Motor Member=M3
+Removed Member From Class: ClassName=C_M Member=M5
+Removed Member From Class: ClassName=Head_Sensors Member=R11
+Removed Member From Class: ClassName=Head_Sensors Member=R12
+Removed Member From Class: ClassName=Head_Sensors Member=R13
+Removed Member From Class: ClassName=C_M Member=R14
+Removed Member From Class: ClassName=Head_Sensors Member=R14
+Removed Member From Class: ClassName=C_M Member=R15
+Removed Member From Class: ClassName=Head_Sensors Member=R15
+Removed Member From Class: ClassName=Side Member=R16
+Removed Member From Class: ClassName=Side Member=R17
+Removed Member From Class: ClassName=Head_Sensors Member=R18
+Removed Member From Class: ClassName=Head_Sensors Member=R19
+Removed Member From Class: ClassName=Side Member=R20
+Removed Member From Class: ClassName=Side Member=R21
+Removed Member From Class: ClassName=Side Member=R22
+Removed Member From Class: ClassName=Side Member=R23
+Removed Member From Class: ClassName=Side Member=R29
+Removed Member From Class: ClassName=Leds Member=R30
+Removed Member From Class: ClassName=Leds Member=R31
+Removed Member From Class: ClassName=Leds Member=R32
+Removed Member From Class: ClassName=Leds Member=R33
+Removed Member From Class: ClassName=Leds Member=R34
+Removed Member From Class: ClassName=Leds Member=R35
+Removed Member From Class: ClassName=Leds Member=R36
+Removed Member From Class: ClassName=Head_Sensors Member=U11
+Removed Member From Class: ClassName=Side Member=U12
+Removed Member From Class: ClassName=Side Member=U13
+Removed Member From Class: ClassName=Side Member=U14
+Removed Member From Class: ClassName=Side Member=U15
+Removed Member From Class: ClassName=Gyro Member=U17
+Removed Member From Class: ClassName=C_M Member=U18
+Removed Member From Class: ClassName=C_M Member=U19
+Removed Member From Class: ClassName=Micro Member=U20
+Added Pin To Net: NetName=NetM3_2 Pin=U15-58
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

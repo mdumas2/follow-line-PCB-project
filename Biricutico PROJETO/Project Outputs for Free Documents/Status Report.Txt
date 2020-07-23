@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:34:04 On 30/10/2019
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Biricutico.PrjPCB]
+   Generated File[Bill of Materials-Biricutico.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:34:33 On 30/10/2019

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD5_2
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

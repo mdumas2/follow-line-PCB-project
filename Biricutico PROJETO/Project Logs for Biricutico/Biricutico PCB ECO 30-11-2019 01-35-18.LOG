@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=START Pin=U15-2
+Removed Pin From Net: NetName=LED_TEST_1 Pin=U15-3
+Removed Pin From Net: NetName=LED_TEST_2 Pin=U15-4
+Removed Pin From Net: NetName=LED_TEST_3 Pin=U15-5
+Removed Pin From Net: NetName=LED_TEST_4 Pin=U15-6
+Removed Pin From Net: NetName=TB66_ADC_2 Pin=U15-8
+Removed Pin From Net: NetName=TB66_ADC_1 Pin=U15-9
+Removed Pin From Net: NetName=TB66_ADC_3 Pin=U15-10
+Removed Pin From Net: NetName=TB66_ADC_4 Pin=U15-11
+Removed Member From Class: ClassName=Leds Member=D10
+Added Pin To Net: NetName=TB66_ADC_4 Pin=U15-2
+Added Pin To Net: NetName=TB66_ADC_3 Pin=U15-3
+Added Pin To Net: NetName=TB66_ADC_1 Pin=U15-4
+Added Pin To Net: NetName=TB66_ADC_2 Pin=U15-5
+Added Pin To Net: NetName=START Pin=U15-6
+Added Pin To Net: NetName=LED_TEST_1 Pin=U15-8
+Added Pin To Net: NetName=LED_TEST_2 Pin=U15-9
+Added Pin To Net: NetName=LED_TEST_3 Pin=U15-10
+Added Pin To Net: NetName=LED_TEST_4 Pin=U15-11
+Added Member To Class: ClassName=Micro Member=Component U15 ARM Microcontrollers
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

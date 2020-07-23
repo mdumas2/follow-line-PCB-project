@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=C_M Member=U21
+Added Pin To Net: NetName=+5 Pin=C36-2
+Added Pin To Net: NetName=+5 Pin=U21-2
+Added Pin To Net: NetName=+5 Pin=U21-2
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Micro Member=C35
+Added Pin To Net: NetName=NetD4_2 Pin=D1-2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD1_2
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

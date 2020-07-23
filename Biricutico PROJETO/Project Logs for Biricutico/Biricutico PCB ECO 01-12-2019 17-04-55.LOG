@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SENSOR_4 Pin=R32-2
+Removed Pin From Net: NetName=SENSOR_6 Pin=R35-2
+Removed Pin From Net: NetName=SENSOR_4 Pin=U8-3
+Removed Pin From Net: NetName=SENSOR_6 Pin=U10-3
+Added Pin To Net: NetName=SENSOR_6 Pin=R32-2
+Added Pin To Net: NetName=SENSOR_4 Pin=R35-2
+Added Pin To Net: NetName=SENSOR_6 Pin=U8-3
+Added Pin To Net: NetName=SENSOR_4 Pin=U10-3
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side

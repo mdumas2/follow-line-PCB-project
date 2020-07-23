@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=USB_RX Pin=U15-42
+Removed Pin From Net: NetName=USB_TX Pin=U15-43
+Removed Pin From Net: NetName=BLUE_RX Pin=U15-58
+Removed Pin From Net: NetName=BLUE_TX Pin=U15-59
+Added Pin To Net: NetName=USB_RX Pin=U15-37
+Added Pin To Net: NetName=USB_TX Pin=U15-38
+Added Pin To Net: NetName=BLUE_RX Pin=U15-42
+Added Pin To Net: NetName=BLUE_TX Pin=U15-43
+Added Room: Name=C_M
+Added Room: Name=Fonte
+Added Room: Name=Gyro
+Added Room: Name=Head_Sensors
+Added Room: Name=Leds
+Added Room: Name=Micro
+Added Room: Name=Motor
+Added Room: Name=Side
